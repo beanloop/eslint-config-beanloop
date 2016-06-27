@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-beanloop",
+  "version": "0.1.0",
+  "description": "Beanloop eslint c️o️n️f️i️g️️",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^6.1.0",
+    "eslint": "^2.9.0",
+    "eslint-plugin-react": "^5.2.2"
+  },
+  "scripts": {
+    "lint": "eslint --fix index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beanloop/eslint-config-beanloop.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Rasmus Eneman <rasmus@beanloop.se>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/beanloop/eslint-config-beanloop/issues"
+  },
+  "homepage": "https://github.com/beanloop/eslint-config-beanloop#readme"
+}
