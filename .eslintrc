@@ -34,7 +34,7 @@
     "computed-property-spacing": "error",
     "eol-last": "error",
     "linebreak-style": "error",
-    "indent": ["error", 2],
+    "indent": ["error", 2, {"SwitchCase": 1}],
     "jsx-quotes": ["error", "prefer-single"],
     "quotes": ["error", "single", {"allowTemplateLiterals": true}],
     "semi": ["error", "never"],
